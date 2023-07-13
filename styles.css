@@ -170,18 +170,11 @@ body {
   p {
     font-size: 14px;
     line-height: 1.4;
+  }
 }
-    
+</style>
+  /* Responsive styles */
   
-  h2 {
-    color:whitesmoke;
-    text-decoration-color: whitesmoke;
-  }
-  h2 {
-    color:white;
-    text-decoration-color: white;
-      text-align: center;
-  }
   
   @media (max-width: 768px) {
     /* Adjust styles for smaller screens */
